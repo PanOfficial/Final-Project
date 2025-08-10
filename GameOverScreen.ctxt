@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment1.params=
+comment1.target=void\ initialize()
+comment10.params=amount
+comment10.target=boolean\ scrolled(int)
+comment2.params=dt
+comment2.target=void\ update(float)
+comment3.params=keyCode
+comment3.target=boolean\ keyDown(int)
+comment4.params=keycode
+comment4.target=boolean\ keyUp(int)
+comment5.params=character
+comment5.target=boolean\ keyTyped(char)
+comment6.params=screenX\ screenY\ pointer\ button
+comment6.target=boolean\ touchDown(int,\ int,\ int,\ int)
+comment7.params=screenX\ screenY\ pointer\ button
+comment7.target=boolean\ touchUp(int,\ int,\ int,\ int)
+comment8.params=screenX\ screenY\ pointer
+comment8.target=boolean\ touchDragged(int,\ int,\ int)
+comment9.params=screenX\ screenY
+comment9.target=boolean\ mouseMoved(int,\ int)
+numComments=11
